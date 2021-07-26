@@ -1,7 +1,7 @@
 import * as React from 'react'
 
-function Home() {
-  return <h1>HOMEPAGE</h1>
+function About() {
+  return <h1>About</h1>
 }
 
-export default Home
+export default About
