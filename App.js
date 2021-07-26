@@ -12,13 +12,13 @@ function Home() {
     <Router>
         <Switch>
           <Route path="/about">
-            <About />
+            <h1>ABOUT</h1>
           </Route>
           <Route path="/users">
-            <Users />
+            <h1>USERS</h1>
           </Route>
           <Route path="/">
-            <Home />
+            <h1>HOMEPAGE</h1>
           </Route>
         </Switch>
     </Router>
